@@ -1,0 +1,3 @@
+# Ignora la carpeta venv, que es el entorno virtual.
+venv
+.idea
